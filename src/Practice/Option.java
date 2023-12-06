@@ -13,7 +13,7 @@ public class Option {
    while(true){
 	   System.out.println("---------Menu-----------");
 	   System.out.println("This is change done by other Developer");
-	   System.out.println("This is changed on 23");
+	   System.out.println("This is changed");
 	   
 	   System.out.println("1.Register Party");
 	   System.out.println("2.Display Party using partyseq");
