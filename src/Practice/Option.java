@@ -22,6 +22,7 @@ public class Option {
 	   System.out.println("4.Update Party ");
 	   System.out.println("5.get gender by using full name");
 	   System.out.println("6.get count of nominee");
+	   System.out.println("Thank You....");
 	   System.out.println("Enter Your Choice");
 	   int ch = sc.nextInt();
 	   switch(ch){
